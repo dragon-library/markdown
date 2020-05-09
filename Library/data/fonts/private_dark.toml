@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Private_Dark"
+
+# Optional Google font URL
+#google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Kanit:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Kanit"
+body_font = "Sarabun"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"

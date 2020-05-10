@@ -13,7 +13,9 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2016/12/20161210_sapiens1.png?w=676)
+![](https://github.com/dragon-library/markdown/blob/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
+
+
 
 > 100,000 ปีที่แล้ว มีมนุษย์อาศัยอยู่บนโลกใบนี้ถึง 6 เผ่าพันธุ์ ในวันนี้มีมนุษย์เพียงเผ่าพันธุ์เดียวที่หลงเหลืออยู่ นั่นคือพวกเราเหล่า Homo Sapiens (Homo = Man, Sapien = Wise, Homo Sapien = Wise Man = ผู้มีปัญญา) อะไรที่ทำให้เผ่าพันธุ์ที่เคยได้แต่เก็บผลหมากรากไม้และล่าสัตว์เพื่อยังชีพ กลายมาเป็นผู้ครองโลกทั้งใบได้?
 

@@ -585,8 +585,27 @@ div.alert > div:first-child::before {
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #ff3860;
+  color: orange;
   content: '\f071';
+}
+div.alert-danger > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #cd0930;
+  content: '\f071';
+}
+
+div.alert-success > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+  color: green;  
+}
+div.alert-info > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+  color: #003366; 
 }
 
 .article-style aside a,
@@ -603,13 +622,20 @@ div.alert a {
   border-color: #209cee;
 }
 
+.alert-info {
+  color: #003366;   
+  border-color: #003366; 
+}
+.alert-success {
+  color: green;   
+  border-color: green; 
+}
+
 .alert-warning {
-  color:#ff9955  ;
-  background-color: #fff5f7;
+  color:orange;  
   border-color: #FF9900;
 }
 .alert-danger {
-  color: #cd0930;
-  background-color: #fff5f7;
+  color: #cd0930;  
   border-color: #ff3860;
 }

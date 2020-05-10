@@ -14,7 +14,7 @@ menu:
 weight: 12
 ---
 
-![enter image description here](https://anontawong.files.wordpress.com/2017/03/20170305_sapiens12.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 ตอนที่แล้วเราพูดถึง[ศาสนาที่มีพระเจ้า](../sapiens-11)ไปแล้ว วันนี้เราจะมาคุย ถึงศาสนาที่ไม่ได้มีพระเจ้าเป็นจุดศูนย์กลางนะครับ
 

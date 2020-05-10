@@ -14,7 +14,7 @@ menu:
 weight: 18
 ---
 
-![enter image description here](https://anontawong.files.wordpress.com/2017/04/20170423_sapiens18.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 ถ้าเอาคนทั้งโลกมาชั่งน้ำหนักรวมกัน พวกเราจะหนักประมาณ 300 ล้านตัน ถ้าเอาสัตว์เลี้ยงและสัตว์ในฟาร์มทั้งโลกมาชั่งรวมกัน พวกมันจะหนัก 700 ล้านตัน แต่ถ้าเอาสัตว์ป่าทั่วโลกมาชั่งรวมกัน จะหนักเพียง 100 ล้านตันเท่านั้น
 

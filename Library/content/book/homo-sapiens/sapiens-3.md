@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2016/12/20161225_sapiens31.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 >ทำไมเราถึงชอบกินของหวานและอาหารที่มีไขมัน ?  
 >ทำไมการรักเดียวใจเดียวจึงเป็นเรื่องยากสำหรับบางคน ?  

@@ -1,11 +1,12 @@
 ---
 # Course title, summary, and position.
+
 linktitle: Homo Sapiens
-summary: A Brief History of Humankind (ประวัติย่อของมนุษยชาติ).
+summary: เซเปียนส์ - ประวัติย่อมนุษยชาติ ไขปัญหาที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์และในโลกยุคใหม่.
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Homo Sapiens - A Brief History of Humankind
 date: "2020-04-09T00:00:00Z"
 lastmod: "2020-04-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -23,9 +24,7 @@ menu:
 
 ![enter image description here](https://images-se-ed.com/ws/Storage/Originals/978616/301/9786163016560L.jpg?h=3ea1d17655a35e145c05d27799718197)
 
-## A Brief History of Humankind (ประวัติย่อของมนุษยชาติ)
-
-หนังสือชื่อ Sapiens และ Homo Deus ที่เขียน โดย Yuval Noah Harari หนังสือนี้ไม่ได้เกี่ยวกับการลงทุน แต่เป็นหนังสือประวัติศาสตร์ เขียน โดย Yuval Noah Harari ปกติเรามักจะมองว่าวิชาประวัติศาสตร์เป็นเรื่องที่โบราณ เรียนรู้ศึกษาแต่เรื่องเก่าๆ ที่ถึงรู้ไป ก็นำมาใช้ประโยชน์ในปัจจุบันได้น้อย แต่ Yuval Noah Harari จะทำให้เราต้องมองประวัติศาสตร์เปลี่ยนไป
+หนังสือชื่อ Sapiens และ Homo Deus ที่เขียน โดย Yuval Noah Harari ปกติเรามักจะมองว่า วิชาประวัติศาสตร์เป็นเรื่องที่โบราณ เรียนรู้ศึกษาแต่เรื่องเก่าๆ ที่ถึงรู้ไป ก็นำมาใช้ประโยชน์ในปัจจุบันได้น้อย แต่ Yuval Noah Harari จะทำให้เราต้องมองประวัติศาสตร์เปลี่ยนไป
 
 Yuval Noah Harari เป็นนักประวัติศาสตร์ชาวยิว ที่เกิดและเติบโตในประเทศอิสราเอล ปัจจุบันมีอายุ 41 ปี เป็นผู้เขียนหนังสือขายดีระดับนานาชาติอย่าง **"Sapiens: A Brief History of Humankind"** และ **"Homo Deus: A Brief History of Tomorrow Harari"** เรียนจบทั้งปริญญาตรี โทและเอกด้านประวัติศาสตร์ และหลังจากจบปริญญาเอกเมื่อปี 2545 ก็มาเป็นนักวิจัย (ทำ Postdoctoral) ร่วมกับ Yad Hanadiv หรือที่เราอาจจะคุ้นหูกันในชื่อ Rothschild Foundation ทุกวันนี้ เขาเป็นอาจารย์ประจำคณะประวัติศาสตร์ที่ Hebrew University of Jerusalem ซึ่งเป็นมหาวิทยาลัยที่เขาจบปริญญาตรีและโท และถือเป็นผู้เชี่ยวชาญด้านประวัติศาสตร์โลก ประวัติศาสตร์ยุคกลางและประวัติศาสตร์ทางทหาร
 

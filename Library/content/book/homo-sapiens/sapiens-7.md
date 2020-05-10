@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 8
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2017/01/20170129_inequality.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 > ทำไมอินเดียถึงมีแบ่งชั้นวรรณะ?  
 ทำไมในอเมริกาคนผิวขาวถึงเหยียดคนผิวดำ?  

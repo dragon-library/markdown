@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 17
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2017/04/20170417_sapiens17.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 เมื่อ 500 ปีที่แล้วเกิดการ[ปฏิวัติทางวิทยาศาสตร์](http://xn--500%20-u0txa0a6psa8exdc8cg9icd2c2quf3ae/)  ทำให้มนุษย์เชื่อว่าความรู้ใหม่ๆ จะสามารถนำไปสร้างเทคโนโลยีและเครื่องมือใหม่ๆ ที่จะช่วยให้ชีวิตดีขึ้นได้ การปฏิวัติครั้งนี้มาพร้อมกับการล่าอาณานิคมและระบอบทุนนิยมที่ขับเคลื่อนให้โลกพัฒนาในเชิงวัตถุอย่างก้าวกระโดด มาตอนนี้เราจะพูดถึงอีกการปฏิวัติหนึ่ง นั่นคือ Industrial Revolution หรือการปฏิวัติอุตสาหรรมที่เกิดขึ้นเมื่อประมาณ 200 ปีที่แล้ว
 

@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2017/02/20170220_sapiens10.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 เมื่อตอนที่แล้วเราพูดถึง “[เงิน](https://anontawong.com/2017/02/12/sapiens-9/)” ซึ่งมีบทบาทในการสร้างโลภาภิวัฒน์ในเชิงเศรษฐกิจ วันนี้จะขอพูดถึง จักรรรดิ (Empires) ที่มีส่วนสำคัญ ในการสร้างโลกาภิวัฒน์ในเชิงสังคมและการเมืองนะครับ
 

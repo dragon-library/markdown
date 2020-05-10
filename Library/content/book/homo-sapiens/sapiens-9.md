@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 10
 ---
-![enter image description here](https://anontawong.files.wordpress.com/2017/02/20170212_sapiens9.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 ## ก่อนจะมีเงิน
 

@@ -14,7 +14,7 @@ menu:
 weight: 19
 ---
 
-![enter image description here](https://anontawong.files.wordpress.com/2017/04/20170430_sapiens19.png?w=676)
+![](https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg)
 
 500 ปีที่ผ่านมา การปฏิวัติทางวิทยาศาสตร์ และการปฏิวัติอุตสาหกรรมได้สร้างความก้าวหน้าให้มนุษย์ในอัตราเร่งยิ่งกว่ายุคใด ๆ เรามีเครื่องไม้เครื่องมือมากมาย เรามีแหล่งพลังงานที่ไม่จำกัด (นิวเคลียร์และแสงอาทิตย์) และชีวิตของพวกเราก็เปลี่ยนไปจนแทบจำไม่ได้ แต่ความก้าวหน้าเหล่านั้นมันได้ทำให้เรามีความสุขมากขึ้นรึเปล่า?
 

@@ -211,7 +211,7 @@ Harari ทิ้งท้ายหนังสือ ด้วยคำถาม
 
 ## สรุปเนื้อหา Homo Deus แต่ละบท
 
-## บทที่ 1 : The New Human Agenda
+### บทที่ 1 : The New Human Agenda
 
 **จุดมุ่งหมายเดิมของมนุษยชาติ (Origin human Agenda)** คือ การแก้ไขปัญหา ความอดอยาก (Famine) โรคระบาด(Plaque) และภาวะสงคราม (Wars)
 

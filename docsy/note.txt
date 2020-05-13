@@ -1,0 +1,3 @@
+
+Getting Started Doc : https://www.docsy.dev/docs/getting-started/
+Theme Document : https://www.docsy.dev/docs/

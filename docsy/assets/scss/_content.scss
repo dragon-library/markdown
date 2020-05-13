@@ -1,0 +1,105 @@
+//
+// Style Markdown content
+//
+
+.td-content {
+    order: 1;
+    font-family: "Sarabun",
+    sans-serif;
+
+    p, li, td {
+        font-weight: $font-weight-body-text;
+        font-size: 17.5px;
+        font-family: "Sarabun",
+        sans-serif;
+        letter-spacing: 0.33px;
+        scroll-behavior: smooth;
+    }
+
+    > h1 {
+        font-weight: $font-weight-bold;
+        margin-bottom: 1rem;
+        font-family: "Kanit", sans-serif;
+        color:#003366;
+    }
+
+    > h2 {
+        margin-bottom: 1rem;
+         font-family: "Kanit",
+         sans-serif;
+         color:#003366;
+    }
+
+    > h2:not(:first-child) {
+        margin-top: 3rem;
+         font-family: "Kanit",
+         sans-serif;
+         color:#003366;
+    }
+
+    > h2 + h3 {
+         margin-top: 1rem;
+          font-family: "Kanit",
+          sans-serif;
+          color:#003366;
+    }
+
+    > h3, > h4, > h5, > h6 {
+        margin-bottom: 1rem;
+        margin-top: 2rem;
+        font-family: "Kanit",
+        sans-serif;
+        color:#003366;
+
+    }
+
+    img {
+        @extend .img-fluid;
+    }
+
+    > table {
+        @extend .table-striped;
+
+        @extend .table-responsive;
+
+        @extend .table;
+    }
+
+    > blockquote {
+        padding: 0 0 0 1rem;
+        margin-bottom: $spacer;
+        font-weight: $font-weight-bold;
+        border-left: 8px solid $primary;
+        background: rgba($primary, 0.15);
+    }
+
+    > ul li, > ol li {
+        margin-bottom: .25rem;
+    }
+
+    strong {
+        font-weight: $font-weight-bold;
+    }
+
+    > pre, > .highlight, > .lead, > h1, > h2, > ul, > ol, > p, > blockquote, > dl dd, .footnotes, > .alert {
+        @extend .td-max-width-on-larger-screens;
+    }
+
+    .alert:not(:first-child) {
+        margin-top: 2 * $spacer;
+        margin-bottom: 2 * $spacer;
+    }
+
+    .lead {
+        margin-bottom: 1.5rem;
+    }
+}
+
+.td-title {
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+
+    @include media-breakpoint-up(sm) {
+        font-size: 3rem;
+    }
+}

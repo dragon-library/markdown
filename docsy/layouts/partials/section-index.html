@@ -5,6 +5,7 @@
     {{/* If no_list is true we don't show a list of subpages */}}
     {{ else if $parent.Params.simple_list }}
     {{/* If simple_list is true we show a bulleted list of subpages */}}
+    <h2 id="title">Contents</h2>
         <ul>
             {{ range $pages }}
                 {{ if eq .Parent $parent }}

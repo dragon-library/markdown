@@ -6,9 +6,15 @@
 
     h5 {
         margin-bottom: 0;
+        
 
         a {
-            font-weight: 700;
+            font-weight: 500;
+            color:#003366;
+            &:hover {
+                color: $secondary;
+                text-decoration: none;
+            }
         }
     }
 

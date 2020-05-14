@@ -42,8 +42,11 @@
     .nav-link {
       color: rgba($sta-menu-text, .85);
 
+      &:hover {
+        color: $sta-link-hover;
+      }
       &.active,
-      &:hover,
+      
       &:focus {
         color: $sta-menu-text;
       }

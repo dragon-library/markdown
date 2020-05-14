@@ -10,9 +10,9 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+contentDir = "content/th"
+defaultContentLanguage = "th"
+defaultContentLanguageInSubdir = true
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
@@ -52,10 +52,10 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
-[languages.en]
+[languages.th]
 title = "Knowledge Base"
 description = "A Docsy example site"
-languageName ="English"
+languageName ="Thai"
 # Weight used for sorting.
 weight = 1
 [languages.no]
@@ -107,10 +107,10 @@ github_project_repo = "https://github.com/google/docsy"
 # github_subdir = ""
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-#gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+# gcs_engine_id = "011737558837375720776:fsdu1nryfng"
 
 # Enable Algolia DocSearch
-algolia_docsearch = true
+algolia_docsearch = false
 
 # Enable Lunr.js offline search
 offlineSearch = true

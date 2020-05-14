@@ -2,7 +2,7 @@
 name = "Private_Dark"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "hsl(348, 83%, 47%)"

@@ -3,6 +3,7 @@
 Document Theme : https://sourcethemes.com/academic/docs/install/#install-with-git
 Page Hugo Theme : https://themes.gohugo.io/academia-hugo/
 Demo : https://themes.gohugo.io//theme/Academia-hugo/
+Source Code : https://github.com/sourcethemes/academic-www
 
 ## alert
 

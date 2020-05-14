@@ -69,6 +69,10 @@ ul.task-list li input[type="checkbox"] {
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+
+  &:hover {
+    color: $sta-link-hover;
+    }
 }
 
 /* Headings */
@@ -166,8 +170,7 @@ figcaption.numbered {
 
 pre,
 code {
-  font-family: $sta-font-mono, monospace;
-  color: #c7254e;
+  font-family: $sta-font-mono, monospace;  
   background-color: #f9f2f4;
 }
 

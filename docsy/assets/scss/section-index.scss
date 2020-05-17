@@ -5,10 +5,9 @@
     }
 
     h5 {
-        margin-bottom: 0;
-        
+        margin-bottom: 0;      
 
-        a {
+        a {           
             font-weight: 500;
             color:#003366;
             &:hover {
@@ -20,5 +19,6 @@
 
     p {
         margin-top: 0;
+        font-size: 80%;
     }
 }

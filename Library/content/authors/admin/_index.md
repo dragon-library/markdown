@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sarawut Wongsanga
+title: Little Dragon
 
 # Username (this should match the folder name)
 authors:

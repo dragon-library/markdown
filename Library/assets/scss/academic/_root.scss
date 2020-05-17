@@ -23,7 +23,7 @@ body {
   margin-top: 70px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
-  letter-spacing: 0.44px;
+  
 }
 @include media-breakpoint-down(md) { /* Match max-width of .nav-bar query. */
   body {
@@ -174,14 +174,16 @@ pre,
 code {
   font-family: $sta-font-mono, monospace;
  /* color: #c7254e;  */
- color: rgb(56,56,56);
-  background-color: rgb(230, 230, 230);
+  color: rgb(56,56,56); 
+
+  background-color: rgb(240, 240, 240);
+  
 }
 
 pre {
-  margin: 0 0 1rem 0;
-  background-color: rgb(230, 230, 230); /* Match default highlight theme. */
-  border-color: rgb(200, 200, 200);
+
+  background-color: rgb(240, 240, 240); /* Match default highlight theme. */
+  border-color: rgb(230, 230, 230);
   font-size: 0.8rem;
   border-radius: 4px;
 }
@@ -205,6 +207,7 @@ blockquote {
   color: rgb(56,56,56);
   border-left: .35rem solid #003366;
   background: rgba(0, 51, 102, 0.075);
+  font-weight: 900;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -587,7 +590,7 @@ div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   color: orange;
-  content: '\f071';
+  content: '\f06a';
 }
 div.alert-danger > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
@@ -599,7 +602,7 @@ div.alert-danger > div:first-child::before {
 div.alert-success > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  content: '\f05a';
+  content: '\f058';
   color: green;  
 }
 div.alert-info > div:first-child::before {

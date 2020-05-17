@@ -33,17 +33,107 @@ import pandas as pd
 data = pd.read_csv("data.csv")
 data.head()
 ```
+### Asides
+
+Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as `*notices*, *hints*, or *alerts*.` By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
+
+```markdown
+{{%/* alert note */%}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{%/* /alert */%}}
+```
+
+renders as
+
+{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+
+**success**
+
+{{% alert success %}}
+A Markdown aside is useful for displaying Success, hints, or definitions to your readers.
+{{% /alert %}}
+
+**info**
+
+{{% alert info %}}
+A Markdown aside is useful for displaying Info, hints, or definitions to your readers.
+{{% /alert %}}
+
+**warning**
+
+{{% alert warning %}}
+A Markdown aside is useful for displaying Warning , hints, or definitions to your readers.
+{{% /alert %}}
+
+**danger**
+
+{{% alert danger %}}
+A Markdown aside is useful for displaying Danger, hints, or definitions to your readers.
+{{% /alert %}}
+
+### Blockquote
+
+```markdown
+> A Markdown aside is useful for displaying Danger, hints, 
+```
+
+
+renders as
+
+> A Markdown aside is useful for displaying Danger, hints, 
+
+**high light**
+
+{{< hl >}}highlighted quote{{< /hl >}}.
+
+ `highlighted quote`
+
+### Embed Documents.  
+
+
+ {{< gdocs src="https://dragon-library.github.io/library/tutorials/" >}}
+
+ ### Embed Youtube.  
+
+ {{< youtube w7Ft2ymGmfc >}}
+
+### Icons
+
+Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://sourcethemes.com/academic/docs/page-builder/#icons) in addition to [emojis](https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis).
+
+Here are some examples using the `icon` shortcode to render icons:
+
+```markdown
+{{</* icon name="terminal" pack="fas" */>}} Terminal  
+{{</* icon name="python" pack="fab" */>}} Python  
+{{</* icon name="r-project" pack="fab" */>}} R
+```
+
+renders as
+
+{{< icon name="terminal" pack="fas" >}} Terminal  
+{{< icon name="python" pack="fab" >}} Python  
+{{< icon name="r-project" pack="fab" >}} R
+
+### Did you find this page helpful? Consider sharing it 🙌
+
+
+
+
+
 
 ### Math
 
 Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.toml` file.
 
-To render *inline* or *block* math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
+To render `*inline*` or `*block*` math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
 
 Example **math block**:
 
 ```tex
-$$\gamma_{n} = \frac{ 
+$$\gamma_{n} = \frac{
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
@@ -51,7 +141,10 @@ $$\gamma_{n} = \frac{
 
 renders as
 
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$.  
 
 Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
 
@@ -64,8 +157,8 @@ $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
 
 renders as
 
-$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
-1-p_0^* & \text {if }k=0.\end{cases}$$
+$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
+1-p_0^* & \text {if }k=0.\end{cases}$$.  
 
 ### Diagrams
 
@@ -245,38 +338,5 @@ renders as
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-### Asides
 
-Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *notices*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
 
-```markdown
-{{%/* alert note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /alert */%}}
-```
-
-renders as
-
-{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-
-### Icons
-
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://sourcethemes.com/academic/docs/page-builder/#icons) in addition to [emojis](https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis).
-
-Here are some examples using the `icon` shortcode to render icons:
-
-```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
-{{</* icon name="r-project" pack="fab" */>}} R
-```
-
-renders as
-
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
-
-### Did you find this page helpful? Consider sharing it 🙌

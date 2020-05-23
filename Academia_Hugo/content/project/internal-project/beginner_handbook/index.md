@@ -16,8 +16,6 @@ image:
   preview_only: true
 ---
 
-
-
 ![The Ultimate Python Beginner's Handbook](https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/cover-post-smaller.png)
 
 Python has become one of the fastest-growing programming languages over the past few years.

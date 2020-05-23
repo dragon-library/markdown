@@ -8,9 +8,9 @@ tags: ['Regular Expressions']
 categories: ['Tutorials','Python']
 date: "2020-04-15T00:00:00Z"
 lastMod: "2020-04-15T00:00:00Z"
-featured: false
+featured: true
 draft: false
-image:
+image: 
   caption: "Photo by http://www.w3programmers.com"
   focal_point: "Smart"
   preview_only: true

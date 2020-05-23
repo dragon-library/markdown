@@ -8,13 +8,14 @@ tags: ['Beginner','freeCodeCamp','List']
 categories: ['Tutorials','Python']
 date: "2020-01-31T00:00:00Z"
 lastMod: "2020-01-31T00:00:00Z"
-featured: false
+featured: true
 draft: false
 image:
   caption: ""
   focal_point: ""
   preview_only: true
 ---
+
 
 
 ![Python Lists Explained: Len, Pop, Index, and List Comprehension](https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)

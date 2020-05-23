@@ -21,6 +21,7 @@ image:
 
 ## Welcome
 
+
 Hi! If you want to learn how to work with files in Python, then this article is for you. Working with files is an important skill that every Python developer should learn, so let's get started.
 
 **In this article, you will learn:**

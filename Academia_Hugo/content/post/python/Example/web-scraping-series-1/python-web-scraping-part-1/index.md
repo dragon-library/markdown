@@ -158,12 +158,11 @@ _*ขออนุญาตแก้ XPath ในตัวอย่างนี�
 
 FB Page:  [Copy Paste Engineer](https://www.facebook.com/CopyPasteEng)  
 
-**- ขอบคุณที่อ่านครับ -**
 
-**part อื่น ๆ ใน series**  
--  [part 1: การดูดข้อมูลเบื้องต้น ด้วย Python](https://dev.to/copypasteengineer/python-web-scraping-part-1-python-49ce)  
--  [part 2: Chrome's Code Inspector](https://dev.to/copypasteengineer/python-web-scraping-part-2-chrome-s-code-inspector-3ok6)  
--  [part 3: เทคนิคการ extract ข้อมูลด้วย XPath](https://dev.to/copypasteengineer/python-web-scraping-part-3-extract-xpath-18h)  
--  [part 4: ทำไมถึง scrape บางเว็บไม่ได้??? 7 เทคนิคง่าย ๆ ให้ scrape เว็บส่วนใหญ่ได้ลื่นปรื๊ด](https://dev.to/copypasteengineer/python-web-scraping-part-4-scrape-7-scrape-4ko4)
+**Part อื่น ๆ ใน series**  
+
+- [Part II - Chrome's Code Inspector](../python-web-scraping-part-2/)
+- [Part III - เทคนิคการ extract ข้อมูลด้วย XPath](../python-web-scraping-part-3/)
+- [Part IV - ทำไมถึง scrape บางเว็บไม่ได้](../python-web-scraping-part-4/)
 
 > Reference : [https://dev.to/copypasteengineer/](https://dev.to/copypasteengineer/python-web-scraping-part-1-python-49ce)

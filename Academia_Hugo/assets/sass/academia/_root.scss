@@ -734,3 +734,48 @@ div.alert-quotes > div {
 .section-heading p{
   text-transform: uppercase;
 }
+
+// {{< expand "Label" "icon" >}}
+.markdown-inner {
+  // Util class to remove extra margin in nested markdown content
+  > :first-child {
+    margin-top: 0;
+  }
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.book-expand {
+  margin-top:  1rem;
+  margin-bottom: 1rem;
+
+  border: 1px solid #f8f9fa;
+  border-radius: 0.15rem;
+  
+
+  overflow: hidden;
+
+  .book-expand-head {
+    background-color: #e9ecef;
+    color:#003366;
+    padding: 0.5rem 1rem;
+    font-weight: bolder;
+    cursor: pointer;    
+    border: 1px solid #E32934;
+    &:hover{
+      background-color: #003366;
+      color:white;
+      border: 1px solid #E32934;
+    }
+  }
+
+  .book-expand-content {
+    display: none;
+    padding: 16px ;
+  }
+
+  input[type="checkbox"]:checked + .book-expand-content {
+    display: block;
+  }
+}

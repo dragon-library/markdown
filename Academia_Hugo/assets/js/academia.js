@@ -433,6 +433,7 @@
       $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');
     }
 
+
     // Toggle day/night mode.
     $('.js-dark-toggle').click(function (e) {
       e.preventDefault();

@@ -10,6 +10,10 @@ date: "2020-05-01T00:00:00Z"
 lastMod: "2020-05-01T00:00:00Z"
 featured: false
 draft: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
 ---
 
 

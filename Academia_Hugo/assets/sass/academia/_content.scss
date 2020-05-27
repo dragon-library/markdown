@@ -37,7 +37,7 @@ article {
 
 .split-header-content {
   max-width: 612px;
-  width: 100%;
+  max-width: 85%;
   padding: 60px 60px 32px 0;
   margin-left: auto;
   -webkit-box-sizing: border-box;
@@ -48,6 +48,7 @@ article {
   position: relative; /* Required for caption positioning */
   clear: both;
   max-width: 85%;
+  height:auto;
 }
 
 .article-header {
@@ -56,16 +57,17 @@ article {
 }
 
 .article-banner {
-  width: 100%;
+  max-width: 85%;
   height: auto;
 }
 
 .featured-image {
-  width: 100%;
+  max-width: 85%;
+  height: auto;
   background-position: left;
   background-origin: border-box;
   background-size: cover;
-  height: 60vh;
+  
  /* min-height: 500px; */
   -webkit-box-flex: 1;
   -webkit-flex: 1 0 auto;
@@ -83,6 +85,7 @@ article {
 @media screen and (max-width: 767px) {
   .featured-image {
     max-width: 85%;
+    height: auto;
   }
 }
 

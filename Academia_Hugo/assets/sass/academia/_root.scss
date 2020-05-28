@@ -31,7 +31,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 640px;
+  max-width: 85%;
 }
 
 .margin-auto {
@@ -104,7 +104,7 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: $sta-link;
+  color: $sta-link-hover;
   text-decoration: none;
   transition: color 0.6s ease;
 }
@@ -122,7 +122,7 @@ video {
 }
 
 video {
-  width: 100%;
+  max-width: 90%;
   height: auto;
   max-height: 400px;
 }
@@ -158,24 +158,33 @@ figcaption h4 {
   margin: 0;
 }
 
+em {
+  background-color: #FFFF99;
+  font-weight: bold;
+}
+
 pre,
 code {
   font-family: $sta-font-mono, monospace;
-  color: #c7254e;
+  
   background-color: #f9f2f4;
 }
 
 pre {
   margin: 0 0 1rem 0;
   background-color: rgb(248, 248, 248); /* Match default highlight theme. */
-  border-color: rgb(248, 248, 248);
+  border-color: rgb(200, 200, 200);
   font-size: 0.9rem;
   border-radius: 4px;
 }
 
 pre code {
+  margin: 0 auto;
+  background-color: #959595;
   white-space: pre; /* Override Bootstrap to preserve line breaks in code. */
   overflow-x: auto;
+  border-color: rgb(200, 200, 200);
+  border-radius: 4px;
 }
 
 hr {
@@ -228,7 +237,7 @@ blockquote p:last-child {
 
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
-    width: 1000px;
+    max-width: 85%;
   }
 }
 
@@ -238,7 +247,7 @@ small,
 }
 
 .responsive-wrap iframe {
-  max-width: 100%;
+  max-width: 90%;
 }
 
 /*************************************************

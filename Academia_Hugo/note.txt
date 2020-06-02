@@ -1,0 +1,18 @@
+
+
+Document Theme : https://sourcethemes.com/academic/docs/install/#install-with-git
+Page Hugo Theme : https://themes.gohugo.io/academia-hugo/
+Demo : https://themes.gohugo.io//theme/Academia-hugo/
+
+## alert
+
+{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+
+{{% alert warning %}}
+Here's some important information...
+{{% /alert %}}
+
+## Embled PDF
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.

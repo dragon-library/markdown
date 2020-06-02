@@ -1,0 +1,15 @@
+# Font style metadata
+name = "dragon"
+
+# Optional Google font URL
+google_fonts = "Kanit:400,700|Sarabun|Roboto+Mono"
+
+# Font families
+heading_font = "Kanit"
+body_font = "Sarabun"
+nav_font = "Kanit"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "16"
